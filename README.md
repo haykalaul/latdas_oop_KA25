@@ -2,7 +2,9 @@
 
 ## Menyimpan daftar Project Kalian yang sudah disubmit di Github
 Latihan dasar OOP C++ KA 2025 B
-https://github.com/mutialma/tugas/ 
-# Mutia alma sovia, putri aulia rahmah, christofarel rumana putra
-
 ### 28 November 2025
+
+Kel. 1B (Mutia,Alma, Christ): https://github.com/mutialma/tugas/ 
+Kel. 2B : 
+kEL. 3B : 
+dst.
