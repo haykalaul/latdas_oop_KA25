@@ -6,5 +6,5 @@ Latihan dasar OOP C++ KA 2025 B
 
 - Kel. 1B (Mutia,Alma, Christ): https://github.com/mutialma/tugas/ 
 - Kel. 2B : (Mansa,Halim,Camellia,Silvia) : https://github.com/manza-dev-ai/TUGASPRAKTIKUM7
-- kEL. 3B : 
+- Kel. 3B : 
 - dst.
